@@ -68,4 +68,5 @@ Much thanks to contributors:
 * [redcom](https://github.com/redcom)
 * [housseindjirdeh](https://github.com/housseindjirdeh)
 * [G2Jose](https://github.com/G2Jose)
+* [Mercury](https://github.com/Mercury-cloud)
 "# MyReactTeam" 
